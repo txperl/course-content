@@ -1,4 +1,4 @@
-"from IPython.lib.display import IFrame\n",
+"from IPython.display import IFrame\n",
 "class BiliVideo(IFrame):\n",
 "    def __init__(self, id, page=1, width=400, height=300, **kwargs):\n",
 "        self.id=id\n",
@@ -7,4 +7,3 @@
 "\n",
 "video = BiliVideo(id='BILIID', width=854, height=480, fs=1)\n",
 "print(\"Video available at https://www.bilibili.com/video/{0}\".format(video.id))\n",
-"video"
