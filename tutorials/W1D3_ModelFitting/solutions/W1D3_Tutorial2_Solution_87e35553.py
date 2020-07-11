@@ -12,5 +12,11 @@ def likelihood(theta_hat, x, y):
     float: the likelihood value for the theta_hat estimate
   """
   sigma = 1
-  pdf = 1 / np.sqrt(2*np.pi*sigma**2) * np.exp(-(y - theta_hat*x)**2 / (2*sigma**2))
+
+  # Compute Gaussian likelihood  
+  pdf = 1 / np.sqrt(2 * np.pi * sigma**2) * np.exp(-(y - theta_hat * x)**2 / (2 * sigma**2))
+  
   return pdf
+
+
+print(likelihood(1.0, x[1], y[1]))  
