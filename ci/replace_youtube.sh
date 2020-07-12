@@ -1,6 +1,8 @@
 #!/bin/zsh
 Rscript make_video_lists.R
 
+rm -f files_to_reprocess.txt # delete the old file if it is there.
+
 while read vid; do
   # vid=`head -1 video_ids.txt` # FOR TESTING 
   youtube_id=`echo $vid | awk '{print $1}'`
@@ -62,6 +64,8 @@ cat files_to_reprocess.txt | sort | uniq > unique_files
 while read f2p; do
    echo "Rerunning $f2p"
   jupyter nbconvert --to notebook --inplace --execute "$f2p" --allow-errors
+  python process_notebooks.py "$f2p"
+
 done <unique_files
 
 python process_notebooks.py
