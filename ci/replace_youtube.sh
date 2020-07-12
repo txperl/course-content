@@ -62,16 +62,6 @@ done <video_ids.txt
 # Only need to rerun each notebook once!
 cat files_to_reprocess.txt | sort | uniq > unique_files
 
-while read f2p; do
-   echo "Rerunning $f2p"
-  # jupyter nbconvert --to notebook --inplace --execute "$f2p" --allow-errors
-  python process_notebooks.py "$f2p"
-
-done <unique_files
-
-python process_notebooks.py
-
-
 find .. -name '*back_0' -delete
 find .. -name '*back_1' -delete
 find .. -name '*back_2' -delete
