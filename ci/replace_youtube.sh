@@ -1,9 +1,6 @@
 #!/bin/zsh
 Rscript make_video_lists.R
 
-# Change all hardcoded Neuromatch refs to erlichlab.
-find .. \( -iname \*.ipynb -o -iname \*.md \) -type f -exec sed -i.back_0 's,github\.com/NeuromatchAcademy,github\.com/erlichlab,g' {} \;
-
 while read vid; do
   # vid=`head -1 video_ids.txt` # FOR TESTING 
   youtube_id=`echo $vid | awk '{print $1}'`
