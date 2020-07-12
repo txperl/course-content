@@ -13,7 +13,9 @@ while read vid; do
   
   echo "Looking for youtube $youtube_id"
   search_dir=`ls ../tutorials | grep W${week}D${day}`
-  find ../tutorials/${search_dir} -name 'W${week}D${day}*ipynb' -type f -exec grep -l "YouTubeVideo(id.*?${youtube_id}" {} \; > files_to_change
+  find ../tutorials/${search_dir} -name 'W${week}D${day}*ipynb' -maxdepth 1 -type f -exec grep -l "YouTubeVideo(id.*?${youtube_id}" {} \; > files_to_change
+  # Use maxdepth to avoid processing student notebooks.
+  
   # sed -i'.bak' 's/:/ /g' files_to_change
   # rm -f files_to_change.bak
 
@@ -64,6 +66,9 @@ while read f2p; do
    echo "Rerunning $f2p"
   jupyter nbconvert --to notebook --inplace --execute "$f2p" --allow-errors
 done <unique_files
+
+python process_notebooks.py
+
 
 find .. -name '*back_0' -delete
 find .. -name '*back_1' -delete
