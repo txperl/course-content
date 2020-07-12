@@ -10,7 +10,7 @@
 
 **Note for visitors from China**: This repository contains many links to YouTube and Google Colab. We have a version of the repository with those same videos posted on bilibili, and the Google Colab links replaced with links to Aliyun. Please visit the [China Accessible Neuromatch Course-Content](https://github.com/erlichlab/course-content/)
 
-**Prerequisites**: [See here](https://github.com/NeuromatchAcademy/precourse)
+**Prerequisites**: [See here](https://github.com/erlichlab/precourse)
 
 # Course materials
 
