@@ -1,5 +1,5 @@
 
-find .. -regex '.*back_[1-9]$' -delete
+find .. -regex '.*back_[0-9]$' -delete
 # rm -f files_to_reprocess.txt
 rm -f this_bilicode
 rm -f bilibili_ids.txt
