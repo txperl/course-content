@@ -9,7 +9,7 @@
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18M8aIPAL3n2q7D_AbbuPPtM)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb) |
 
 
 
@@ -19,7 +19,7 @@
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18Oi40BY9HyzVlJFHxhph6Gy)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.ipynb) |
 
 
 
@@ -32,9 +32,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/rbx2a/?direct%
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial3.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D1_ModelTypes/student/W1D1_Tutorial3.ipynb) |
 
 
 
@@ -47,8 +47,8 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/kmwus/?direct%
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D2_ModelingPractice/student/W1D2_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D2_ModelingPractice/student/W1D2_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D2_ModelingPractice/student/W1D2_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D2_ModelingPractice/student/W1D2_Tutorial2.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D2_ModelingPractice/student/W1D2_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D2_ModelingPractice/student/W1D2_Tutorial2.ipynb) |
 
 
 
@@ -61,12 +61,12 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/sqcvz/?direct%
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial3.ipynb) |
-| Tutorial 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb) |
-| Tutorial 5 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial5.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial5.ipynb) |
-| Tutorial 6 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial6.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial6.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial3.ipynb) |
+| Tutorial 4 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb) |
+| Tutorial 5 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial5.ipynb) |
+| Tutorial 6 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial6.ipynb) |
 
 
 
@@ -79,8 +79,8 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/qxfz9/?direct%
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D4_MachineLearning/student/W1D4_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D4_MachineLearning/student/W1D4_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D4_MachineLearning/student/W1D4_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D4_MachineLearning/student/W1D4_Tutorial2.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D4_MachineLearning/student/W1D4_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D4_MachineLearning/student/W1D4_Tutorial2.ipynb) |
 
 
 
@@ -93,10 +93,10 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial3.ipynb) |
-| Tutorial 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial4.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial4.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial3.ipynb) |
+| Tutorial 4 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W1D5_DimensionalityReduction/student/W1D5_Tutorial4.ipynb) |
 
 
 
@@ -106,10 +106,10 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18NmYKYd6AjspUPnlys9R3R0)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial3.ipynb) |
-| Tutorial 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial4.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial4.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial3.ipynb) |
+| Tutorial 4 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D1_BayesianStatistics/student/W2D1_Tutorial4.ipynb) |
 
 
 
@@ -119,10 +119,10 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18NamPEHJnnljSC-4hWGvsJK)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial3.ipynb) |
-| Tutorial 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial4.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial4.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial3.ipynb) |
+| Tutorial 4 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D2_LinearSystems/student/W2D2_Tutorial4.ipynb) |
 
 
 
@@ -132,9 +132,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18NaQb7HyKp-O3Ag5JJ9MmXi)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial3.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D3_DecisionMaking/student/W2D3_Tutorial3.ipynb) |
 
 
 
@@ -144,8 +144,8 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18NSMbvuDS2WaXLWctg3QArY)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D4_OptimalControl/student/W2D4_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D4_OptimalControl/student/W2D4_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D4_OptimalControl/student/W2D4_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D4_OptimalControl/student/W2D4_Tutorial2.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D4_OptimalControl/student/W2D4_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D4_OptimalControl/student/W2D4_Tutorial2.ipynb) |
 
 
 
@@ -155,9 +155,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18P7mSCMDbLiTMdo_7eRvdjl)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial3.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial3.ipynb) |
 
 
 
@@ -167,10 +167,10 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18MCEdPJQ7gdnqP-Z0Tkmcjy)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial3.ipynb) |
-| Tutorial 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial4.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial4.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial3.ipynb) |
+| Tutorial 4 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial4.ipynb) |
 
 
 
@@ -180,8 +180,8 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18PrZb52EVhNgrfPjLF0OPEJ)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial2.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial2.ipynb) |
 
 
 
@@ -191,10 +191,10 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18P46LiVj6hCd4w1SLpVJo63)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial3.ipynb) |
-| Tutorial 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial4.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial4.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial3.ipynb) |
+| Tutorial 4 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial4.ipynb) |
 
 
 
@@ -204,9 +204,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18PZ2uw0p7G4EkzjzqP8l0Eg)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial3.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial3.ipynb) |
 
 
 
@@ -216,9 +216,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/khbwu/?direct%
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18Ojl1CV8W00JZ0C0hivBxw1)
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial1.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial2.ipynb) |
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial3.ipynb) |
+| Tutorial 1 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial1.ipynb) |
+| Tutorial 2 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial2.ipynb) |
+| Tutorial 3 | [[Run Locally](https://github.com/erlichlab/course-content/blob/master/running-locally.md) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/erlichlab/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial3.ipynb) |
 
 
 
