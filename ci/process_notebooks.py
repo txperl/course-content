@@ -30,7 +30,7 @@ GITHUB_RAW_URL = (
     "https://raw.githubusercontent.com/NeuromatchAcademy/course-content/master"
 )
 GITHUB_TREE_URL = (
-    "https://github.com/NeuromatchAcademy/course-content/tree/master/"
+    "https://github.com/erlichlab/course-content/tree/master/"
 )
 
 
